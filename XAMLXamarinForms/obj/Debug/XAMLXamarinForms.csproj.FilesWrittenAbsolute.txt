@@ -1,0 +1,18 @@
+/Users/HariWepuri/Projects/XAMLXamarinForms/XAMLXamarinForms/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/HariWepuri/Projects/XAMLXamarinForms/XAMLXamarinForms/obj/Debug/XAMLXamarinForms.XamlPage.xaml
+/Users/HariWepuri/Projects/XAMLXamarinForms/XAMLXamarinForms/obj/Debug/XamlPage.xaml.g.cs
+/Users/HariWepuri/Projects/XAMLXamarinForms/XAMLXamarinForms/bin/Debug/XAMLXamarinForms.dll.mdb
+/Users/HariWepuri/Projects/XAMLXamarinForms/XAMLXamarinForms/bin/Debug/XAMLXamarinForms.dll
+/Users/HariWepuri/Projects/XAMLXamarinForms/XAMLXamarinForms/obj/Debug/XAMLXamarinForms.dll
+/Users/HariWepuri/Projects/XAMLXamarinForms/XAMLXamarinForms/obj/Debug/XAMLXamarinForms.dll.mdb
+/Users/HariWepuri/Projects/XAMLXamarinForms/XAMLXamarinForms/bin/Debug/Xamarin.Forms.Core.dll
+/Users/HariWepuri/Projects/XAMLXamarinForms/XAMLXamarinForms/bin/Debug/Xamarin.Forms.Xaml.dll
+/Volumes/HP V215B/Live/XAMLXamarinForms/XAMLXamarinForms/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Volumes/HP V215B/Live/XAMLXamarinForms/XAMLXamarinForms/obj/Debug/XAMLXamarinForms.XamlPage.xaml
+/Volumes/HP V215B/Live/XAMLXamarinForms/XAMLXamarinForms/obj/Debug/XamlPage.xaml.g.cs
+/Volumes/HP V215B/Live/XAMLXamarinForms/XAMLXamarinForms/bin/Debug/XAMLXamarinForms.dll.mdb
+/Volumes/HP V215B/Live/XAMLXamarinForms/XAMLXamarinForms/bin/Debug/XAMLXamarinForms.dll
+/Volumes/HP V215B/Live/XAMLXamarinForms/XAMLXamarinForms/obj/Debug/XAMLXamarinForms.dll
+/Volumes/HP V215B/Live/XAMLXamarinForms/XAMLXamarinForms/obj/Debug/XAMLXamarinForms.dll.mdb
+/Volumes/HP V215B/Live/XAMLXamarinForms/XAMLXamarinForms/bin/Debug/Xamarin.Forms.Core.dll
+/Volumes/HP V215B/Live/XAMLXamarinForms/XAMLXamarinForms/bin/Debug/Xamarin.Forms.Xaml.dll
